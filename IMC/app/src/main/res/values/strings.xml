@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="mensaje1">Introduzca su peso en Kg</string>
+    <string name="mensaje2">Calculadora de IMC</string>
+    <string name="calculadora_de_imc">Calculadora de IMC</string>
+    <string name="introduzca_su_peso_en_kg">Introduzca su peso en Kg</string>
+    <string name="introduzca_su_altura_en_m">Introduzca su altura en m</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+</resources>
