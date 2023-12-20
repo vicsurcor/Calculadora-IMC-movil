@@ -7,4 +7,12 @@
     <string name="introduzca_su_altura_en_m">Introduzca su altura en m</string>
     <string name="calcular">Calcular</string>
     <string name="resultado">Resultado</string>
+    <string name="por_favor_introduce_tu_peso_y_altura">Por favor, introduce tu peso y altura</string>
+    <string name="deber_a_comer_mas">Debería comer mas</string>
+    <string name="estado_bueno">Buen Estado</string>
+    <string name="sufre_sobrepeso">Sufre sobrepeso</string>
+    <string name="sufre_obesidad">Sufre Obesidad</string>
+    <string name="introduzca_los_datos">Introduzca los datos</string>
+    <string name="error_caracteres">Caracteres incorrectos, solo numeros</string>
+    <string name="error_numeros">No se admiten numeros negativos</string>
 </resources>
